@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--
 Here are some ideas to get you started:  -->
 <a href="linkedin.com/in/avishka-chandrawansha-9128bb1b3/">
-  <img src="https://img.shields.io/badge/-prineth_fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avishka-chandrawansha-9128bb1b3/" />
+  <img src="https://img.shields.io/badge/-Avishka Chandrawansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avishka-chandrawansha-9128bb1b3/" />
 </a>
 <a href="mailto:nchandrawansha@gmail.com">
   <img src="https://img.shields.io/badge/-nchandrawansha@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nchandrawansha@gmail.com" />
