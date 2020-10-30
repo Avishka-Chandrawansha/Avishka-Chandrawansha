@@ -57,5 +57,7 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
+  ![Avishka-Chandrawasha](https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawash&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
+![Avishka-Chandrawasha](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Chandrawasha&layout=compact&langs_count=6&theme=algolia)
 ### Show some ❤️ by starring some of the repositories!
 
