@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**prineth/Prineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Avishka-Chandrawansha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,28 +34,28 @@ Here are some ideas to get you started:
 </p>
 <!--
 Here are some ideas to get you started:  -->
-<a href="https://www.linkedin.com/in/prineth-fernando-4072231ab/">
-  <img src="https://img.shields.io/badge/-prineth_fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prineth_fernando-630155147/" />
+<a href="linkedin.com/in/avishka-chandrawansha-9128bb1b3/">
+  <img src="https://img.shields.io/badge/-prineth_fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avishka-chandrawansha-9128bb1b3/" />
 </a>
-<a href="mailto:fprineth@gmail.com">
-  <img src="https://img.shields.io/badge/-fprineth@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fprineth@gmail.com" />
+<a href="mailto:nchandrawansha@gmail.com">
+  <img src="https://img.shields.io/badge/-nchandrawansha@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nchandrawansha@gmail.com" />
 </a>
-<a href="https://dev.to/prineth">
-  <img src="https://img.shields.io/badge/DEV.to-prineth-black" />
+<a href="https://dev.to/avishkachandrawansha">
+  <img src="https://img.shields.io/badge/DEV.to-Avishka-black" />
 </a>
 <!--
-<a href="https://dev.to/prineth">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prineth Fernando's DEV Profile" height="30" width="30">
+<a href="https://dev.to/avishkachandrawansha">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="'s DEV Profile" height="30" width="30">
 </a>
 -->
 
-<a href="https://github.com/prineth">
-  <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
+<a href="https://github.com/Avishka-Chandrawansha">
+  <img src="https://img.shields.io/github/followers/Avishka-Chandrawansha?label=Follow&style=social" />
 </a>
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img
       align="center"
-      src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
+      src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
 ### Show some ❤️ by starring some of the repositories!
 
