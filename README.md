@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 <!--
 Here are some ideas to get you started:  -->
-<a href="linkedin.com/in/avishka-chandrawansha-9128bb1b3/">
+<a href="linkedin.com/in/avishka-chandrawansha-9128bb1b3">
   <img src="https://img.shields.io/badge/-Avishka Chandrawansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avishka-chandrawansha-9128bb1b3/" />
 </a>
 <a href="mailto:nchandrawansha@gmail.com">
