@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello There 👋
+- 🌱 I’m currently learning.
 
+![SrilalS](https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawansha&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
+![SrilalS](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Chandrawansha&layout=compact&langs_count=6&theme=algolia)
 <!--
-**Avishka-Chandrawansha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SrilalS/SrilalS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,24 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<img src="https://github.com/lahiruroot/lahiruroot/blob/main/biogif/Blue%20Illustrated%20General%20Grocery%20Supplies%20Online%20Service%20Grocery%20Facebook%20Cover.gif"/>
--->
-<p align="center">
-  <a href="https://github.com/Avishka-Chandrawansha/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Chandrawansha&layout=compact&exclude_repo=PingMeRN&title_color=ffffff&icon_color=bb2acf&text_color=bc96e6&bg_color=151515"
-    />
-  </a>
-  <a href="https://github.com/Avishka-Chandrawansha/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawansha&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=ffffff&icon_color=bb2acf&text_color=bc96e6&bg_color=151515"
-    />
-  </a>
-</p>
 <!--
 Here are some ideas to get you started:  -->
 <a href="https://linkedin.com/in/avishka-chandrawansha-9128bb1b3/">
@@ -59,4 +44,3 @@ Here are some ideas to get you started:  -->
   </a><br>
  
 ### Show some ❤️ by starring some of the repositories!
-
