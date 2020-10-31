@@ -6,6 +6,7 @@
 <!--
 **SrilalS/SrilalS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -42,5 +43,6 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm" />
  
 ### Show some ❤️ by starring some of the repositories!
