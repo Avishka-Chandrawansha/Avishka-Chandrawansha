@@ -1,5 +1,6 @@
 ### Hello There 👋
 - 🌱 I’m currently learning.
+ <img align="right" alt="GIF" src="https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm"/>
 
 ![SrilalS](https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawansha&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![SrilalS](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Chandrawansha&layout=compact&langs_count=6&theme=algolia)
@@ -43,6 +44,6 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm" />
+ 
  
 ### Show some ❤️ by starring some of the repositories!
