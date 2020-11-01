@@ -1,6 +1,6 @@
 ### Hello There 👋
 - 🌱 I’m currently learning.
-<img align="right" alt="GIF" width="400px" height="300px" src="assets/18a4949fc9c8067172d3b96e302e7097.gif" />
+
 
 ![SrilalS](https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawansha&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![SrilalS](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Chandrawansha&layout=compact&langs_count=6&theme=algolia)
@@ -44,6 +44,7 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
+  <img align="right" alt="GIF" width="400px" height="300px" src="assets/18a4949fc9c8067172d3b96e302e7097.gif" />
  
  
 ### Show some ❤️ by starring some of the repositories!
