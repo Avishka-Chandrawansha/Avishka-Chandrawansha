@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 <!--
 Here are some ideas to get you started:  -->
+<img align="" alt="GIF" width="600px" height="500px" src="assets/18a4949fc9c8067172d3b96e302e7097.gif" />
 <a href="https://linkedin.com/in/avishka-chandrawansha-9128bb1b3/">
   <img src="https://img.shields.io/badge/-Avishka Chandrawansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avishka-chandrawansha-9128bb1b3/" />
 </a>
@@ -44,7 +45,7 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
-  <img align="" alt="GIF" width="600px" height="500px" src="assets/18a4949fc9c8067172d3b96e302e7097.gif" />
+  
  
  
 ### Show some ❤️ by starring some of the repositories!
