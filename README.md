@@ -1,5 +1,5 @@
 ### Hello There 👋
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning javascript, css & python
 
 
 ![SrilalS](https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawansha&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
