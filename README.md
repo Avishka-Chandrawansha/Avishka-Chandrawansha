@@ -1,6 +1,6 @@
 ### Hello There 👋
 - 🌱 I’m currently learning.
-<img align="right" alt="GIF" width="350px" height="380px" src="assets/managertyping.gif" />
+<img align="right" alt="GIF" width="330px" height="370px" src="assets/managertyping.gif" />
 
 ![SrilalS](https://github-readme-stats.vercel.app/api?username=Avishka-Chandrawansha&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![SrilalS](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Chandrawansha&layout=compact&langs_count=6&theme=algolia)
