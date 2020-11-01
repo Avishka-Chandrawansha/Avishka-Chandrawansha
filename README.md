@@ -44,7 +44,7 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=Avishka-Chandrawansha&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
-  <img align="right" alt="GIF" width="400px" height="300px" src="assets/18a4949fc9c8067172d3b96e302e7097.gif" />
+  <img align="" alt="GIF" width="400px" height="300px" src="assets/18a4949fc9c8067172d3b96e302e7097.gif" />
  
  
 ### Show some ❤️ by starring some of the repositories!
